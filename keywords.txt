@@ -1,0 +1,28 @@
+#########################################
+# Syntax Coloring Map For Arduino-BQ24155
+#########################################
+
+#########################################
+# Datatypes (KEYWORD1)
+#########################################
+
+BQ24155           KEYWORD1
+BQ24155Callback   KEYWORD1
+
+#########################################
+# Methods and Functions (KEYWORD2)
+#########################################
+
+init               KEYWORD2
+reset              KEYWORD2
+poll               KEYWORD2
+preserveOnDestroy  KEYWORD2
+serializeSettings  KEYWORD2
+printDebug         KEYWORD2
+printRegs          KEYWORD2
+
+#########################################
+# Constants (LITERAL1)
+#########################################
+
+BQ24155_SERIALIZE_VERSION  LITERAL1
